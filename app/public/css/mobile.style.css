@@ -1,0 +1,22 @@
+body{
+    margin: 0!important;
+    padding: 0!important;
+}
+
+
+#console-area {
+    float       : left !important;
+    width       : 100% !important;
+    overflow-x   : scroll !important;
+}
+
+#editor-area {
+    width       : 100% !important;
+    overflow-x  : scroll !important;
+
+}
+.btns {
+    margin-left: 5px !important;
+    margin-top: 7.5px !important;
+
+}
